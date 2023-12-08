@@ -178,7 +178,10 @@ Q<a name="_page8_x57.38_y254.89"></a>uestion ![](assets/Aspose.Words.d1b856f9-28
 1. Train 혹은 Test time때 noise를 추가하면 sensitivity map에 denoising effect를 얻을 수 있다고 함
 1. Train과 Test때 동시에 noise를 추가하면 보기에 가장 일관성있는 sensitivity map 생성 가능
 1. Test time때에는 왜 그럴까 ? (Train때에도 noise를 추가했기 때문에 Test때에도 동일 환경을 맞춰줘서 그런가?)
-2. ???
+
+실제 실험
+![](assets/Aspose.Words.d1b856f9-28fb-4e5a-9ed6-88e00bd39e2a.055.png) </br><br/>
+![](assets/experiment.png)
 
 R<a name="_page8_x57.38_y354.66"></a>eference ![](assets/Aspose.Words.d1b856f9-28fb-4e5a-9ed6-88e00bd39e2a.055.png)
 
